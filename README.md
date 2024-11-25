@@ -1,2 +1,2 @@
 # Qt-ManEscapingRain
-Rain Drops Created so far.
+Rain Man Game Implemented
